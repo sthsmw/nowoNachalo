@@ -1,1 +1,1 @@
-# nowoNachalo
+// komentar
